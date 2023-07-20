@@ -3,8 +3,11 @@
 Try running some of the following tasks:
 
 Create a ENV file with =>
+
 API_URL = "https://sepolia.infura.io/v3/{YOUR INFURA ID}"
+
 PRIVATE_KEY={YOURS PRIVATE KEY}
+
 ETHERSCANKEY={YOURS ETHERECAN ID}
 
 ```shell
